@@ -23,5 +23,7 @@ public class fibonanci {
         //     cnt++;
         // }
         // System.out.println(b);
+        sc.close();
+        
     }
 }

@@ -19,5 +19,7 @@ public class Largest {
 
         int max = Math.max(num3,Math.max(num1,num2));
         System.out.println("The largest number is: " + max);
+        sc.close();
+
     }
 }
