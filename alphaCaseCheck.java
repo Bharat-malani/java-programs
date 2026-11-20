@@ -12,6 +12,5 @@ public class alphaCaseCheck {
             System.out.println("Invalid input");
         }
         sc.close();
-
     }
 }
