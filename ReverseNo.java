@@ -13,6 +13,5 @@ public class ReverseNo {
         }
         System.out.println("Reverse : "+rev);
         sc.close();
-
     }
 }
