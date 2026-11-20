@@ -34,7 +34,6 @@ public class CountNums {
         }
 
         System.out.println("Count = " + cnt);
-
         sc.close();
     }
 }
