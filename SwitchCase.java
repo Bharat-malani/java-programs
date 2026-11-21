@@ -25,8 +25,6 @@ public class SwitchCase {
                 System.out.println("Please enter a valid fruit!");
                 break;
         }
-        
-
         sc.close();
     }
 }
